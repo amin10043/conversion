@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="conversion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/conversion_jar</output-path>
+    <root id="archive" name="conversion.jar">
+      <element id="module-output" name="conversion" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/postgresql-9.4.1212.jre6.jar" path-in-jar="/" />
+      <element id="library" level="project" name="json-simple-1.1.1" />
+      <element id="library" level="project" name="postgresql-9.4.1212.jre6" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
